@@ -64,9 +64,3 @@ Designed with **React, TypeScript, TailwindCSS, and AI models (TensorFlow/Keras)
 
 ---
 
-## 🏗️ Installation
-
-1. **Clone the repo**
-```bash
-git clone https://github.com/swayam-the-great/Smart-Krishi-Advisor.git
-cd Smart-Krishi-Advisor
